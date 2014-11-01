@@ -8,7 +8,7 @@ the project extract from http://sourceforge.net/projects/easystruts/
 usage
 ===========
 
-import the source code into your eclipse, open plugin.xml, toggle to the Build tab, click the Export button at the upper right corner of the window, export the easyexplore plugin, drop the plugin into the dropins folder in the installation directory, restart eclipse. Following a series of steps above, and then you can enjoy it.
+Import the source code into your eclipse, open plugin.xml, toggle to the Build tab, click the Export button at the upper right corner of the window, export the easyexplore plugin, drop the plugin into the dropins folder in the installation directory, restart eclipse. Following a series of steps above, and then you can enjoy it.
 
 notice
 ===========
